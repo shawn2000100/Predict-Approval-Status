@@ -1,0 +1,515 @@
+id,Loan Amount,Term,State,Annual Income,Income Verification Status,Average Account Balance,Due Amount,Home Ownership,Loan Purpose,Due Settlement,Installment Amount,Payment Plan
+1601,21300.0, 36 months,LA,47360.0,Verified,13879.0,791.48,MORTGAGE,debt_consolidation,Y,791.48,n
+1959,11000.0, 36 months,NV,80000.0,Not Verified,2591.0,357.48,RENT,credit_card,Y,357.48,n
+1174,16000.0, 36 months,IL,89000.0,Not Verified,3019.0,10593.0,OWN,credit_card,N,527.16,n
+634,12000.0, 60 months,PA,41000.0,Partially Verified,4142.0,298.17,RENT,debt_consolidation,Y,298.17,n
+2508,5000.0, 36 months,CA,20000.0,Verified,3448.0,178.24,RENT,debt_consolidation,Y,178.24,n
+723,5000.0, 36 months,TX,33000.0,Partially Verified,7448.0,164.74,MORTGAGE,debt_consolidation,N,164.74,n
+619,30000.0, 36 months,OH,105000.0,Partially Verified,5596.0,440.24,OWN,debt_consolidation,N,943.42,n
+682,25000.0, 36 months,DE,130000.0,Verified,3715.0,777.55,OWN,home_improvement,N,777.55,n
+195,4775.0, 36 months,TX,60000.0,Partially Verified,7431.0,204.65,OWN,other,Y,204.65,n
+641,38925.0, 36 months,PA,125000.0,Verified,27282.0,1283.41,MORTGAGE,home_improvement,Y,1283.41,n
+2375,2000.0, 36 months,NJ,32000.0,Partially Verified,1092.0,86.75,RENT,debt_consolidation,N,65.85,n
+711,7000.0, 36 months,GA,156000.0,Verified,4070.0,219.33,RENT,debt_consolidation,N,219.33,n
+575,20000.0, 36 months,TX,56133.0,Not Verified,2553.0,20244.86,MORTGAGE,debt_consolidation,N,649.96,n
+1885,5000.0, 36 months,FL,65000.0,Partially Verified,3181.0,2686.89,RENT,debt_consolidation,N,157.24,n
+2072,2500.0, 36 months,MS,42000.0,Partially Verified,3875.0,2165.29,RENT,major_purchase,N,81.25,n
+2548,27300.0, 36 months,CA,95000.0,Not Verified,4452.0,899.47,RENT,debt_consolidation,N,899.47,n
+1724,33950.0, 36 months,MD,86400.0,Verified,49618.0,1244.31,MORTGAGE,credit_card,Y,1244.31,n
+192,18000.0, 36 months,IL,90000.0,Not Verified,21479.0,16988.57,MORTGAGE,other,N,593.49,n
+2041,10000.0, 36 months,VA,85000.0,Partially Verified,2651.0,329.72,RENT,debt_consolidation,Y,329.72,n
+1005,22400.0, 60 months,AZ,72000.0,Not Verified,33660.0,481.36,MORTGAGE,home_improvement,N,481.36,n
+1774,14000.0, 36 months,CA,96500.0,Not Verified,72566.0,421.61,MORTGAGE,credit_card,Y,421.61,n
+1263,29850.0, 36 months,TN,99000.0,Not Verified,3083.0,26657.62,MORTGAGE,debt_consolidation,N,1079.0,n
+454,5925.0, 36 months,NC,30000.0,Partially Verified,3836.0,214.18,MORTGAGE,debt_consolidation,N,214.18,n
+2461,28000.0, 60 months,CT,105000.0,Partially Verified,34403.0,842.32,MORTGAGE,debt_consolidation,N,842.32,n
+1474,15250.0, 36 months,MN,58000.0,Verified,37198.0,551.25,MORTGAGE,debt_consolidation,Y,551.25,n
+1650,30000.0, 60 months,VA,115000.0,Verified,44559.0,30209.92,MORTGAGE,credit_card,N,961.23,n
+1787,21000.0, 60 months,CA,81000.0,Partially Verified,21409.0,536.0,MORTGAGE,debt_consolidation,Y,662.63,n
+1794,7500.0, 36 months,NJ,49800.0,Partially Verified,2354.0,400.0,RENT,home_improvement,Y,289.31,n
+1146,10000.0, 36 months,FL,36266.19,Not Verified,3635.0,5996.19,RENT,debt_consolidation,N,324.98,n
+565,11225.0, 36 months,CO,39000.0,Verified,2930.0,8575.38,RENT,debt_consolidation,N,411.41,n
+2492,8000.0, 36 months,CA,90000.0,Not Verified,7066.0,263.39,MORTGAGE,debt_consolidation,Y,263.39,n
+1675,8000.0, 36 months,CA,39000.0,Verified,2631.0,50.0,RENT,credit_card,Y,247.9,n
+1597,13850.0, 36 months,MO,33000.0,Verified,1179.0,554.27,MORTGAGE,debt_consolidation,N,554.27,n
+2191,5100.0, 36 months,NC,37000.0,Partially Verified,2193.0,168.16,RENT,debt_consolidation,N,168.16,n
+1592,35000.0, 36 months,TX,115000.0,Partially Verified,25953.0,5097.78,MORTGAGE,debt_consolidation,N,1300.55,n
+465,12000.0, 36 months,FL,80000.0,Partially Verified,11971.0,361.38,MORTGAGE,debt_consolidation,N,361.38,n
+2434,12000.0, 60 months,MD,45000.0,Verified,2759.0,378.65,RENT,credit_card,Y,378.65,n
+398,32000.0, 36 months,FL,95000.0,Partially Verified,24651.0,1172.84,MORTGAGE,other,Y,1172.84,n
+1222,20000.0, 60 months,NJ,111000.0,Verified,19456.0,429.78,MORTGAGE,debt_consolidation,N,429.78,n
+117,26500.0, 36 months,NY,130000.0,Not Verified,2279.0,862.22,RENT,debt_consolidation,Y,821.16,n
+861,30000.0, 60 months,CA,120000.0,Partially Verified,5622.0,658.13,MORTGAGE,home_improvement,N,658.13,n
+748,10000.0, 36 months,MA,39000.0,Verified,3136.0,356.48,OWN,debt_consolidation,Y,356.48,n
+2370,6000.0, 36 months,CA,56000.0,Not Verified,4823.0,2252.25,RENT,debt_consolidation,Y,197.83,n
+817,8500.0, 36 months,CA,47220.0,Verified,1843.0,280.26,RENT,debt_consolidation,Y,280.26,n
+353,20000.0, 36 months,CA,80000.0,Not Verified,3516.0,100.0,RENT,credit_card,Y,628.95,n
+2349,5000.0, 36 months,NY,60000.0,Partially Verified,25487.0,164.62,MORTGAGE,credit_card,Y,164.62,n
+2278,18000.0, 36 months,FL,56000.0,Partially Verified,14590.0,18284.56,OWN,credit_card,N,593.49,n
+1081,4800.0, 36 months,MS,89000.0,Partially Verified,24742.0,173.51,MORTGAGE,debt_consolidation,N,173.51,n
+311,16000.0, 36 months,KS,79000.0,Partially Verified,31488.0,503.16,MORTGAGE,credit_card,N,503.16,n
+1093,15000.0, 36 months,OH,72000.0,Partially Verified,6031.0,12029.82,RENT,debt_consolidation,N,464.81,n
+1145,9600.0, 36 months,FL,86000.0,Not Verified,1207.0,311.98,OWN,home_improvement,Y,311.98,n
+1540,22325.0, 36 months,NV,60000.0,Verified,2470.0,861.18,RENT,debt_consolidation,Y,861.18,n
+2377,5000.0, 36 months,MI,33000.0,Partially Verified,1877.0,103.0,RENT,moving,Y,155.51,n
+1358,5000.0, 36 months,CO,15780.0,Verified,1346.0,183.26,RENT,debt_consolidation,Y,183.26,n
+579,25000.0, 60 months,NY,300000.0,Partially Verified,38532.0,16362.95,MORTGAGE,credit_card,N,506.8,n
+1632,20000.0, 60 months,NH,68000.0,Partially Verified,16493.0,575.25,MORTGAGE,debt_consolidation,N,575.25,n
+1376,6000.0, 36 months,IL,60000.0,Not Verified,8163.0,194.99,MORTGAGE,debt_consolidation,N,194.99,n
+2123,7000.0, 36 months,CA,27324.0,Not Verified,1740.0,4712.89,MORTGAGE,credit_card,N,220.14,n
+1322,10000.0, 36 months,NV,76000.0,Verified,4196.0,366.51,RENT,debt_consolidation,Y,366.51,n
+597,16000.0, 60 months,VA,98365.0,Partially Verified,23362.0,460.2,MORTGAGE,debt_consolidation,Y,460.2,n
+33,14000.0, 36 months,FL,90000.0,Partially Verified,6381.0,438.65,RENT,credit_card,Y,438.65,n
+1275,18000.0, 60 months,AZ,78000.0,Partially Verified,14972.0,533.51,MORTGAGE,home_improvement,Y,533.51,n
+1615,6000.0, 36 months,CO,121000.0,Not Verified,31421.0,3618.49,MORTGAGE,debt_consolidation,N,194.99,n
+2556,7500.0, 36 months,CA,130000.0,Partially Verified,499.0,235.86,MORTGAGE,debt_consolidation,N,235.86,n
+953,3200.0, 36 months,OK,110000.0,Not Verified,5479.0,96.37,MORTGAGE,home_improvement,Y,96.37,n
+271,11000.0, 36 months,NY,60000.0,Verified,66175.0,392.13,OWN,other,Y,392.13,n
+2294,15000.0, 36 months,FL,920000.0,Partially Verified,7619.0,493.86,RENT,debt_consolidation,N,493.86,n
+938,14250.0, 36 months,CO,46086.0,Partially Verified,2095.0,84.82,RENT,debt_consolidation,N,469.51,n
+1192,13000.0, 60 months,AZ,30860.0,Partially Verified,2588.0,323.02,RENT,credit_card,Y,323.02,n
+1523,7000.0, 36 months,IL,54000.0,Not Verified,8231.0,3044.0,MORTGAGE,other,N,230.64,n
+53,18000.0, 60 months,WA,54000.0,Partially Verified,22403.0,504.75,MORTGAGE,credit_card,Y,504.75,n
+2557,20000.0, 36 months,KS,70000.0,Not Verified,12496.0,5512.79,MORTGAGE,credit_card,N,628.95,n
+530,13200.0, 60 months,FL,42500.0,Verified,11570.0,50.0,MORTGAGE,debt_consolidation,Y,342.35,n
+1045,26000.0, 36 months,TX,79000.0,Partially Verified,2732.0,926.85,RENT,debt_consolidation,Y,926.85,n
+182,6000.0, 36 months,OH,36600.0,Not Verified,13739.0,180.69,MORTGAGE,home_improvement,Y,180.69,n
+1818,6000.0, 36 months,FL,37000.0,Partially Verified,4447.0,2441.26,MORTGAGE,debt_consolidation,N,197.55,n
+937,8000.0, 36 months,CA,50000.0,Partially Verified,10495.0,289.18,RENT,debt_consolidation,N,289.18,n
+1715,40000.0, 60 months,CA,80559.36,Verified,2795.0,1312.38,RENT,debt_consolidation,Y,1312.38,n
+314,28000.0, 60 months,CA,65000.0,Partially Verified,6875.0,50.0,RENT,debt_consolidation,Y,883.5,n
+1490,10000.0, 36 months,AZ,105000.0,Not Verified,7705.0,313.32,MORTGAGE,major_purchase,N,313.32,n
+1205,18400.0, 36 months,CA,40000.0,Partially Verified,926.0,18467.94,RENT,debt_consolidation,N,674.38,n
+2300,28800.0, 36 months,MD,60000.0,Verified,3688.0,1000.0,MORTGAGE,debt_consolidation,Y,1055.55,n
+2153,8000.0, 36 months,NJ,110000.0,Partially Verified,29080.0,50.0,MORTGAGE,debt_consolidation,Y,285.19,n
+2464,15000.0, 36 months,CA,97000.0,Partially Verified,4218.0,487.47,RENT,debt_consolidation,N,487.47,n
+1857,2500.0, 36 months,OH,52000.0,Not Verified,9995.0,2115.87,MORTGAGE,credit_card,N,82.43,n
+1874,8000.0, 36 months,NY,52000.0,Verified,2089.0,164.36,RENT,credit_card,Y,263.39,n
+716,35000.0, 36 months,NH,85000.0,Partially Verified,2658.0,1265.16,MORTGAGE,debt_consolidation,N,1265.16,n
+2288,26825.0, 60 months,CA,105000.0,Partially Verified,98408.0,867.72,MORTGAGE,debt_consolidation,Y,867.72,n
+1456,5400.0, 36 months,NJ,65000.0,Not Verified,2386.0,2718.19,RENT,other,N,166.72,n
+1150,35000.0, 36 months,CA,169000.0,Partially Verified,51173.0,24990.34,MORTGAGE,debt_consolidation,N,1247.68,n
+913,32000.0, 60 months,OH,66700.0,Partially Verified,21093.0,703.61,MORTGAGE,credit_card,N,703.61,n
+2460,20000.0, 36 months,TX,130000.0,Partially Verified,29914.0,658.95,MORTGAGE,credit_card,Y,658.95,n
+390,35000.0, 36 months,AR,300000.0,Verified,30012.0,1054.02,MORTGAGE,home_improvement,Y,1054.02,n
+805,4500.0, 36 months,NC,50000.0,Not Verified,14383.0,148.38,MORTGAGE,debt_consolidation,Y,148.38,n
+1242,24000.0, 60 months,NC,52500.0,Verified,33089.0,50.0,MORTGAGE,debt_consolidation,Y,622.45,n
+2481,9325.0, 36 months,WI,32000.0,Partially Verified,912.0,207.82,RENT,credit_card,N,293.25,n
+452,8400.0, 36 months,DE,42000.0,Not Verified,4082.0,307.87,RENT,debt_consolidation,Y,307.87,n
+1101,12000.0, 60 months,OH,52000.0,Not Verified,15033.0,9917.22,MORTGAGE,debt_consolidation,N,336.5,n
+1651,11150.0, 36 months,HI,31900.0,Verified,4234.0,6368.19,OWN,debt_consolidation,N,397.48,n
+1767,17700.0, 36 months,OK,68000.0,Partially Verified,19008.0,700.0,MORTGAGE,credit_card,Y,630.97,n
+562,9600.0, 36 months,TX,108000.0,Verified,1325.0,316.53,RENT,debt_consolidation,N,316.53,n
+1017,25000.0, 36 months,TX,65000.0,Not Verified,1937.0,50.0,OWN,debt_consolidation,Y,990.57,n
+657,20000.0, 60 months,NJ,93000.0,Not Verified,9623.0,604.01,MORTGAGE,other,N,575.25,n
+135,6000.0, 36 months,TX,35000.0,Verified,2296.0,216.89,RENT,debt_consolidation,N,216.89,n
+1872,16200.0, 36 months,WA,36000.0,Not Verified,2151.0,534.14,RENT,debt_consolidation,Y,534.14,n
+536,18000.0, 36 months,CA,82000.0,Not Verified,22514.0,566.05,MORTGAGE,home_improvement,N,566.05,n
+402,19975.0, 36 months,CA,65000.0,Partially Verified,45982.0,8812.81,MORTGAGE,debt_consolidation,N,742.25,n
+1010,5850.0, 36 months,AL,35000.0,Not Verified,3011.0,211.47,MORTGAGE,credit_card,Y,211.47,n
+1504,6000.0, 36 months,TX,25703.0,Not Verified,7322.0,326.0,MORTGAGE,debt_consolidation,Y,216.89,n
+951,6000.0, 36 months,PA,81000.0,Partially Verified,26246.0,188.69,OWN,car,Y,188.69,n
+518,10000.0, 36 months,NY,60000.0,Not Verified,3292.0,59.72,MORTGAGE,debt_consolidation,N,329.24,n
+1087,26925.0, 60 months,CA,79565.0,Verified,4285.0,849.58,RENT,debt_consolidation,Y,849.58,n
+1027,36000.0, 60 months,LA,123051.76,Verified,22650.0,1182.26,MORTGAGE,major_purchase,Y,1182.26,n
+1796,18000.0, 36 months,TN,285000.0,Partially Verified,87735.0,15520.74,MORTGAGE,debt_consolidation,N,650.66,n
+1070,5000.0, 36 months,CA,30240.0,Verified,2120.0,198.12,RENT,credit_card,Y,198.12,n
+687,9000.0, 36 months,MO,72000.0,Not Verified,3302.0,281.99,OWN,debt_consolidation,N,281.99,n
+2145,40000.0, 36 months,CA,138000.0,Verified,9427.0,1445.9,RENT,major_purchase,N,1445.9,n
+924,10000.0, 36 months,FL,81000.0,Partially Verified,18560.0,324.98,MORTGAGE,credit_card,Y,324.98,n
+1515,16000.0, 36 months,TX,160000.0,Verified,8718.0,501.31,MORTGAGE,credit_card,Y,501.31,n
+712,11000.0, 60 months,FL,48480.0,Partially Verified,12084.0,9567.31,MORTGAGE,debt_consolidation,N,285.29,n
+501,4800.0, 36 months,NY,26000.0,Not Verified,1453.0,3794.29,RENT,credit_card,N,158.04,n
+317,12000.0, 36 months,CA,127000.0,Not Verified,3269.0,8739.05,RENT,debt_consolidation,N,377.37,n
+326,4800.0, 36 months,NC,43000.0,Partially Verified,2039.0,2573.65,MORTGAGE,debt_consolidation,N,150.95,n
+2456,33000.0, 36 months,GA,200000.0,Partially Verified,39736.0,1876.98,MORTGAGE,credit_card,N,1022.57,n
+276,6000.0, 36 months,MO,44500.0,Partially Verified,19584.0,3432.79,MORTGAGE,credit_card,N,194.99,n
+156,4000.0, 36 months,TX,110000.0,Verified,15564.0,161.68,MORTGAGE,debt_consolidation,N,161.68,n
+2060,14000.0, 36 months,MT,88000.0,Not Verified,13279.0,475.62,MORTGAGE,debt_consolidation,Y,461.27,n
+2357,12000.0, 36 months,MA,65000.0,Not Verified,14058.0,8061.19,RENT,debt_consolidation,N,373.22,n
+1916,12925.0, 60 months,VA,42000.0,Partially Verified,8663.0,388.82,MORTGAGE,debt_consolidation,Y,388.82,n
+418,7200.0, 36 months,KY,36000.0,Partially Verified,2680.0,273.08,MORTGAGE,debt_consolidation,Y,273.08,n
+1830,22000.0, 36 months,CA,71500.0,Verified,5791.0,784.26,RENT,debt_consolidation,Y,784.26,n
+2313,20000.0, 36 months,FL,116000.0,Partially Verified,39600.0,50.0,MORTGAGE,debt_consolidation,Y,626.64,n
+652,21000.0, 36 months,NE,150000.0,Not Verified,23006.0,810.07,MORTGAGE,vacation,N,810.07,n
+296,30000.0, 36 months,CA,185000.0,Verified,20601.0,50.0,MORTGAGE,debt_consolidation,Y,987.72,n
+1697,20000.0, 36 months,FL,55000.0,Verified,4162.0,712.96,RENT,debt_consolidation,N,712.96,n
+708,15000.0, 36 months,CA,48000.0,Not Verified,2906.0,50.0,RENT,debt_consolidation,Y,471.71,n
+841,7100.0, 36 months,OK,37790.0,Verified,11741.0,234.1,MORTGAGE,medical,N,234.1,n
+1689,8400.0, 36 months,CA,65000.0,Partially Verified,14132.0,276.96,MORTGAGE,credit_card,Y,276.96,n
+1491,24000.0, 36 months,NE,355000.0,Verified,19589.0,1940.1,MORTGAGE,debt_consolidation,Y,970.05,n
+850,30000.0, 60 months,MI,125000.0,Partially Verified,4673.0,644.67,RENT,home_improvement,N,644.67,n
+1806,30000.0, 36 months,NY,161000.0,Verified,40850.0,50.0,MORTGAGE,debt_consolidation,Y,989.14,n
+776,5000.0, 36 months,TX,40000.0,Verified,2804.0,90.0,RENT,debt_consolidation,Y,164.74,n
+1417,7000.0, 36 months,OH,40000.0,Not Verified,16026.0,230.8,MORTGAGE,debt_consolidation,N,230.8,n
+998,17000.0, 36 months,NJ,68000.0,Not Verified,20004.0,534.61,MORTGAGE,credit_card,Y,534.61,n
+2221,20000.0, 60 months,CA,80000.0,Partially Verified,7298.0,529.77,RENT,debt_consolidation,Y,529.77,n
+2074,12000.0, 36 months,MA,78000.0,Partially Verified,3332.0,395.09,RENT,debt_consolidation,Y,395.09,n
+2208,9075.0, 36 months,NY,50000.0,Partially Verified,2772.0,446.8,MORTGAGE,small_business,Y,332.61,n
+2307,26000.0, 36 months,TX,70000.0,Partially Verified,15568.0,8154.73,MORTGAGE,credit_card,N,844.95,n
+2138,30000.0, 36 months,CA,130000.0,Partially Verified,2666.0,988.43,RENT,debt_consolidation,Y,988.43,n
+2013,5000.0, 36 months,MN,54000.0,Partially Verified,8646.0,185.8,RENT,other,Y,185.8,n
+868,13000.0, 36 months,MA,70000.0,Partially Verified,28223.0,6038.09,MORTGAGE,debt_consolidation,N,476.47,n
+399,10000.0, 36 months,PA,72000.0,Partially Verified,5025.0,324.98,OWN,credit_card,N,324.98,n
+2050,30000.0, 36 months,NY,75000.0,Verified,888.0,989.14,RENT,house,Y,989.14,n
+2152,10000.0, 36 months,CA,60000.0,Partially Verified,3320.0,329.72,RENT,debt_consolidation,Y,329.72,n
+1487,30350.0, 60 months,NY,73000.0,Partially Verified,1700.0,754.12,RENT,other,N,754.12,n
+2007,2500.0, 36 months,AL,35000.0,Verified,12974.0,81.25,MORTGAGE,credit_card,N,81.25,n
+1719,9800.0, 36 months,NY,62000.0,Partially Verified,4349.0,3419.07,RENT,credit_card,N,323.12,n
+457,8000.0, 36 months,NY,45000.0,Partially Verified,4312.0,265.88,RENT,debt_consolidation,Y,263.78,n
+818,10000.0, 36 months,FL,36000.0,Partially Verified,2828.0,356.48,RENT,major_purchase,Y,356.48,n
+104,16000.0, 60 months,NM,42000.0,Verified,8522.0,397.56,OWN,debt_consolidation,N,397.56,n
+1303,35000.0, 36 months,PA,81000.0,Not Verified,6793.0,1153.17,RENT,debt_consolidation,N,1153.17,n
+1507,20000.0, 36 months,MD,108000.0,Not Verified,35840.0,602.3,MORTGAGE,home_improvement,N,602.3,n
+1852,16000.0, 36 months,CA,32000.0,Verified,3056.0,480.56,RENT,debt_consolidation,N,627.65,n
+1063,6000.0, 36 months,TX,95000.0,Not Verified,2757.0,5137.3,OWN,debt_consolidation,N,188.0,n
+224,6000.0, 36 months,TX,36000.0,Not Verified,4351.0,50.0,OWN,credit_card,Y,188.69,n
+1073,20000.0, 60 months,WA,83633.0,Partially Verified,7843.0,560.83,RENT,debt_consolidation,N,560.83,n
+1118,7500.0, 36 months,WA,52000.0,Partially Verified,5980.0,247.29,RENT,debt_consolidation,Y,247.29,n
+2086,16000.0, 60 months,MI,89400.0,Verified,10832.0,343.83,MORTGAGE,debt_consolidation,Y,343.83,n
+1573,12000.0, 60 months,MS,100000.0,Verified,3443.0,298.17,MORTGAGE,major_purchase,Y,298.17,n
+971,13000.0, 36 months,FL,260000.0,Partially Verified,2885.0,469.92,RENT,other,N,469.92,n
+2441,10075.0, 36 months,LA,28000.0,Verified,851.0,395.22,OWN,debt_consolidation,Y,395.22,n
+1246,19000.0, 36 months,NY,60000.0,Not Verified,4007.0,617.46,RENT,debt_consolidation,N,617.46,n
+2392,40000.0, 60 months,CA,175000.0,Verified,49571.0,815.66,MORTGAGE,debt_consolidation,N,815.66,n
+996,6000.0, 36 months,OR,25000.0,Partially Verified,1300.0,213.89,RENT,debt_consolidation,Y,213.89,n
+2114,10000.0, 36 months,AZ,27685.0,Not Verified,1813.0,329.48,OWN,debt_consolidation,N,329.48,n
+1876,8000.0, 36 months,NY,65000.0,Partially Verified,1523.0,285.19,OWN,debt_consolidation,Y,285.19,n
+486,27700.0, 36 months,AR,130000.0,Partially Verified,14120.0,867.89,RENT,debt_consolidation,N,867.89,n
+2317,8000.0, 36 months,NJ,80000.0,Partially Verified,1308.0,3483.29,OWN,debt_consolidation,N,251.58,n
+2033,10000.0, 36 months,VA,107207.0,Not Verified,3657.0,313.32,MORTGAGE,credit_card,Y,313.32,n
+2062,30000.0, 36 months,AZ,78000.0,Verified,3134.0,988.43,RENT,debt_consolidation,N,988.43,n
+1160,20900.0, 60 months,AZ,77396.0,Verified,7752.0,519.31,MORTGAGE,debt_consolidation,Y,519.31,n
+2297,16000.0, 60 months,AZ,110000.0,Verified,18871.0,423.82,MORTGAGE,debt_consolidation,Y,423.82,n
+1183,8000.0, 36 months,NJ,105000.0,Not Verified,3071.0,250.66,RENT,debt_consolidation,N,250.66,n
+1136,2500.0, 36 months,OK,81999.75,Verified,2485.0,1408.5,RENT,house,N,77.47,n
+1083,19225.0, 60 months,AZ,50652.0,Verified,4002.0,749.81,RENT,debt_consolidation,Y,627.8,n
+1696,30000.0, 36 months,FL,100000.0,Verified,2959.0,334.0,MORTGAGE,debt_consolidation,Y,1084.43,n
+2124,28000.0, 60 months,WI,205000.0,Partially Verified,15207.0,842.32,MORTGAGE,credit_card,Y,842.32,n
+217,15000.0, 60 months,LA,65000.0,Not Verified,13919.0,372.71,MORTGAGE,debt_consolidation,N,372.71,n
+2490,11525.0, 60 months,NV,80000.0,Not Verified,40154.0,8264.94,MORTGAGE,debt_consolidation,N,233.64,n
+1018,13200.0, 36 months,MO,30000.0,Not Verified,2457.0,50.0,MORTGAGE,credit_card,Y,428.98,n
+1058,4800.0, 36 months,PA,42500.0,Partially Verified,23572.0,150.95,MORTGAGE,credit_card,N,150.95,n
+977,10000.0, 60 months,NY,38000.0,Verified,1555.0,381.0,RENT,debt_consolidation,Y,280.42,n
+22,5000.0, 36 months,CA,145000.0,Not Verified,37107.0,150.58,MORTGAGE,home_improvement,N,150.58,n
+1355,9000.0, 36 months,GA,80000.0,Not Verified,13452.0,4449.48,MORTGAGE,debt_consolidation,N,296.32,n
+215,15000.0, 60 months,RI,85000.0,Not Verified,9477.0,12579.13,MORTGAGE,debt_consolidation,N,372.71,n
+1319,7000.0, 36 months,CA,46000.0,Not Verified,997.0,300.0,RENT,debt_consolidation,Y,219.33,n
+731,4500.0, 36 months,NE,66000.0,Partially Verified,8415.0,148.16,MORTGAGE,home_improvement,Y,148.16,n
+1000,20800.0, 60 months,MI,41600.0,Partially Verified,33858.0,666.45,MORTGAGE,other,N,666.45,n
+1568,12000.0, 60 months,CA,92000.0,Partially Verified,4168.0,377.0,RENT,debt_consolidation,Y,311.23,n
+2526,10000.0, 36 months,NV,55000.0,Not Verified,2693.0,120.0,RENT,debt_consolidation,Y,329.48,n
+27,12500.0, 60 months,NJ,192000.0,Verified,174832.0,402.42,MORTGAGE,credit_card,Y,310.59,n
+2206,6000.0, 36 months,PA,32000.0,Verified,6455.0,197.83,MORTGAGE,debt_consolidation,N,197.83,n
+1041,24000.0, 36 months,NY,67000.0,Partially Verified,3846.0,87.0,RENT,debt_consolidation,Y,791.32,n
+1538,1800.0, 36 months,CA,28834.0,Verified,1800.0,160.0,RENT,medical,Y,64.17,n
+1842,10000.0, 36 months,MD,115200.0,Verified,33727.0,329.48,MORTGAGE,home_improvement,N,329.48,n
+1912,6525.0, 36 months,MD,86000.0,Partially Verified,39223.0,493.3,MORTGAGE,debt_consolidation,Y,239.15,n
+1543,30000.0, 60 months,MA,250000.0,Partially Verified,16799.0,22134.37,MORTGAGE,debt_consolidation,N,658.13,n
+1042,7500.0, 36 months,NY,30000.0,Verified,8834.0,247.11,OWN,debt_consolidation,Y,247.11,n
+1110,35000.0, 36 months,LA,112000.0,Partially Verified,52704.0,1247.68,MORTGAGE,home_improvement,Y,1247.68,n
+1937,3600.0, 36 months,OH,40000.0,Partially Verified,1603.0,1764.72,MORTGAGE,debt_consolidation,N,130.14,n
+259,7200.0, 36 months,MA,33000.0,Verified,2851.0,50.0,MORTGAGE,debt_consolidation,Y,263.89,n
+2027,4800.0, 36 months,TX,25000.0,Not Verified,2437.0,3271.84,RENT,debt_consolidation,N,188.3,n
+686,8500.0, 36 months,CA,57000.0,Partially Verified,3040.0,255.98,RENT,debt_consolidation,Y,255.98,n
+2053,4000.0, 36 months,NY,40000.0,Partially Verified,3231.0,2088.19,OWN,credit_card,N,131.79,n
+482,40000.0, 36 months,FL,125000.0,Verified,36129.0,760.5,MORTGAGE,credit_card,Y,1239.48,n
+2473,10000.0, 36 months,MI,40000.0,Not Verified,2054.0,8390.96,RENT,debt_consolidation,N,361.48,n
+2236,15000.0, 36 months,NC,80000.0,Not Verified,30237.0,451.73,MORTGAGE,credit_card,N,451.73,n
+2324,15325.0, 36 months,VA,120000.0,Not Verified,50462.0,50.0,MORTGAGE,credit_card,Y,546.31,n
+745,7000.0, 36 months,IL,103000.0,Partially Verified,26065.0,249.54,OWN,debt_consolidation,N,249.54,n
+2472,12000.0, 36 months,CA,240000.0,Verified,16784.0,395.66,RENT,credit_card,N,395.66,n
+2252,35000.0, 60 months,TX,167000.0,Verified,82758.0,28748.13,MORTGAGE,credit_card,N,752.12,n
+1377,5500.0, 36 months,PA,62000.0,Verified,7991.0,181.09,MORTGAGE,other,N,181.09,n
+1607,23175.0, 36 months,IL,60000.0,Not Verified,26885.0,1656.05,MORTGAGE,debt_consolidation,N,849.39,n
+1228,12000.0, 36 months,CA,189000.0,Not Verified,4938.0,395.66,RENT,credit_card,Y,395.66,n
+1813,35000.0, 60 months,TX,232000.0,Partially Verified,23310.0,956.55,MORTGAGE,debt_consolidation,Y,956.55,n
+320,10000.0, 36 months,NH,50000.0,Not Verified,2905.0,7794.25,MORTGAGE,debt_consolidation,N,311.02,n
+906,10700.0, 36 months,OH,32000.0,Verified,8701.0,100.0,OWN,debt_consolidation,Y,386.78,n
+1495,3500.0, 36 months,CA,65000.0,Partially Verified,23104.0,1815.83,MORTGAGE,other,N,124.77,n
+70,8000.0, 36 months,NY,38000.0,Partially Verified,1162.0,255.75,RENT,debt_consolidation,Y,248.82,n
+578,35000.0, 60 months,TX,290000.0,Partially Verified,32227.0,767.81,MORTGAGE,home_improvement,Y,767.81,n
+446,3125.0, 36 months,CA,78400.0,Partially Verified,28805.0,120.55,MORTGAGE,debt_consolidation,Y,120.55,n
+289,24000.0, 60 months,VA,68000.0,Verified,16269.0,50.0,RENT,debt_consolidation,Y,757.29,n
+1717,12000.0, 36 months,CA,92000.0,Partially Verified,20952.0,389.98,MORTGAGE,debt_consolidation,N,389.98,n
+9,6000.0, 36 months,CA,65000.0,Partially Verified,21975.0,197.69,MORTGAGE,debt_consolidation,Y,197.69,n
+704,12000.0, 36 months,IL,160000.0,Verified,3403.0,375.99,MORTGAGE,credit_card,N,375.99,n
+2430,30000.0, 36 months,OK,70000.0,Not Verified,12094.0,20335.01,MORTGAGE,debt_consolidation,N,1114.76,n
+1217,35000.0, 36 months,AZ,175000.0,Verified,23722.0,26806.52,MORTGAGE,debt_consolidation,N,1247.68,n
+2487,1200.0, 36 months,TN,57000.0,Partially Verified,5622.0,132.14,RENT,other,N,43.99,n
+1505,6000.0, 36 months,CT,53000.0,Not Verified,20961.0,197.69,MORTGAGE,home_improvement,N,197.69,n
+527,4100.0, 36 months,NY,41000.0,Verified,7206.0,187.8,RENT,debt_consolidation,Y,165.72,n
+1611,9950.0, 36 months,MO,36000.0,Verified,3248.0,422.34,RENT,debt_consolidation,Y,422.34,n
+692,12000.0, 36 months,VA,86500.0,Not Verified,38867.0,361.38,MORTGAGE,home_improvement,N,361.38,n
+1374,20000.0, 60 months,UT,82000.0,Partially Verified,10129.0,340.91,MORTGAGE,debt_consolidation,N,518.71,n
+1032,28000.0, 36 months,CO,60000.0,Partially Verified,5173.0,1188.5,MORTGAGE,other,Y,1188.5,n
+1808,15000.0, 60 months,FL,67000.0,Verified,20241.0,389.03,MORTGAGE,debt_consolidation,Y,389.03,n
+2102,24000.0, 60 months,SC,175000.0,Partially Verified,524.0,527.71,RENT,debt_consolidation,N,527.71,n
+1464,10000.0, 60 months,WA,55000.0,Partially Verified,4270.0,248.48,RENT,house,N,248.48,n
+2242,15200.0, 36 months,AZ,40000.0,Verified,2330.0,100.0,RENT,debt_consolidation,Y,634.41,n
+1459,4000.0, 36 months,NY,37500.0,Not Verified,1493.0,4061.45,OWN,credit_card,N,131.7,n
+2192,22000.0, 60 months,TX,85000.0,Verified,11377.0,22594.18,MORTGAGE,debt_consolidation,N,661.82,n
+302,17600.0, 36 months,CA,40000.0,Not Verified,3000.0,636.2,RENT,debt_consolidation,Y,636.2,n
+1798,1700.0, 36 months,CA,61000.0,Not Verified,2172.0,50.0,RENT,other,Y,60.61,n
+1909,6000.0, 36 months,SC,85000.0,Not Verified,50035.0,197.69,OWN,debt_consolidation,N,197.69,n
+1738,14000.0, 36 months,WA,80000.0,Verified,17450.0,7337.78,MORTGAGE,debt_consolidation,N,461.6,n
+2363,18000.0, 36 months,NY,65000.0,Partially Verified,5976.0,650.66,MORTGAGE,credit_card,Y,650.66,n
+1187,13000.0, 36 months,IN,52200.0,Partially Verified,12768.0,428.32,MORTGAGE,credit_card,Y,428.32,n
+148,8000.0, 36 months,PA,22000.0,Verified,1895.0,50.0,RENT,debt_consolidation,Y,263.78,n
+1255,12000.0, 60 months,AL,52672.0,Not Verified,12068.0,263.86,MORTGAGE,debt_consolidation,Y,263.86,n
+330,6500.0, 36 months,FL,55000.0,Verified,5733.0,416.36,MORTGAGE,major_purchase,N,200.68,n
+1571,30400.0, 36 months,AZ,113000.0,Partially Verified,21763.0,216.71,MORTGAGE,credit_card,N,956.0,n
+842,6000.0, 36 months,GA,78133.08,Not Verified,29201.0,197.55,RENT,home_improvement,N,197.55,n
+480,6000.0, 36 months,NY,120000.0,Partially Verified,24491.0,180.69,RENT,medical,N,180.69,n
+2096,5000.0, 36 months,NV,65000.0,Partially Verified,7873.0,2356.61,RENT,debt_consolidation,N,164.86,n
+2419,10000.0, 60 months,OH,50000.0,Verified,3119.0,273.3,MORTGAGE,home_improvement,Y,273.3,n
+2561,4800.0, 36 months,NC,30000.0,Verified,4360.0,88.7,OWN,debt_consolidation,Y,171.11,n
+1706,16050.0, 36 months,VA,150000.0,Verified,40319.0,629.61,MORTGAGE,debt_consolidation,Y,629.61,n
+746,7500.0, 36 months,ME,30000.0,Partially Verified,796.0,4970.04,OWN,credit_card,N,247.29,n
+1749,23000.0, 60 months,CA,50000.0,Not Verified,2952.0,571.49,OWN,debt_consolidation,Y,571.49,n
+2353,4000.0, 36 months,CA,84000.0,Not Verified,13267.0,123.5,MORTGAGE,credit_card,Y,123.5,n
+609,15000.0, 36 months,MO,40000.0,Not Verified,11964.0,534.72,MORTGAGE,debt_consolidation,Y,534.72,n
+2054,40000.0, 60 months,OK,50000.0,Verified,15237.0,50.0,MORTGAGE,debt_consolidation,Y,1121.66,n
+333,6000.0, 36 months,NY,47000.0,Partially Verified,2182.0,159.0,RENT,major_purchase,Y,188.69,n
+1686,6000.0, 36 months,MT,50000.0,Verified,8331.0,194.99,MORTGAGE,home_improvement,Y,194.99,n
+2079,7000.0, 36 months,PA,13000.0,Verified,23257.0,2859.52,MORTGAGE,small_business,N,230.8,n
+1370,9800.0, 36 months,CO,64500.0,Not Verified,7394.0,7982.92,MORTGAGE,major_purchase,N,322.66,n
+666,15000.0, 36 months,NV,44000.0,Not Verified,2369.0,542.22,RENT,debt_consolidation,Y,542.22,n
+1714,10000.0, 36 months,NJ,150000.0,Partially Verified,23205.0,5587.13,MORTGAGE,home_improvement,N,308.73,n
+1898,30000.0, 36 months,NY,110000.0,Partially Verified,19358.0,100.0,OWN,credit_card,Y,987.72,n
+2119,25000.0, 60 months,CO,85000.0,Partially Verified,5407.0,800.0,RENT,debt_consolidation,N,486.79,n
+57,8400.0, 36 months,FL,112000.0,Partially Verified,30765.0,2211.19,MORTGAGE,debt_consolidation,N,324.03,n
+1530,5000.0, 36 months,IL,60000.0,Partially Verified,11679.0,164.62,RENT,credit_card,N,164.62,n
+2503,9800.0, 36 months,MO,65000.0,Verified,3924.0,50.0,RENT,debt_consolidation,Y,378.03,n
+981,14000.0, 36 months,VA,103000.0,Not Verified,28659.0,9996.86,MORTGAGE,credit_card,N,461.27,n
+2283,33000.0, 36 months,MS,118000.0,Partially Verified,2922.0,1176.38,MORTGAGE,debt_consolidation,Y,1176.38,n
+1687,10000.0, 36 months,NJ,95000.0,Partially Verified,7886.0,329.72,RENT,debt_consolidation,Y,329.72,n
+2094,5000.0, 36 months,TX,103000.0,Partially Verified,48325.0,5061.9,MORTGAGE,debt_consolidation,N,164.86,n
+2469,6700.0, 36 months,NC,21000.0,Partially Verified,6917.0,50.0,RENT,debt_consolidation,Y,282.56,n
+966,15000.0, 36 months,CA,96000.0,Partially Verified,3258.0,494.57,RENT,debt_consolidation,N,494.57,n
+1190,12000.0, 60 months,MD,66510.0,Verified,4084.0,311.23,RENT,debt_consolidation,Y,311.23,n
+436,16000.0, 36 months,FL,65000.0,Verified,16289.0,527.16,MORTGAGE,debt_consolidation,Y,527.16,n
+1618,9000.0, 36 months,HI,30000.0,Not Verified,1777.0,2578.71,RENT,major_purchase,N,296.53,n
+1858,5000.0, 36 months,CA,45000.0,Partially Verified,2493.0,1496.93,OWN,home_improvement,N,162.49,n
+715,16000.0, 36 months,PA,102000.0,Not Verified,12636.0,503.16,RENT,credit_card,Y,503.16,n
+795,20000.0, 36 months,PA,95000.0,Verified,8550.0,100.0,OWN,debt_consolidation,Y,659.43,n
+1197,24000.0, 60 months,SC,50000.0,Verified,5116.0,690.3,RENT,debt_consolidation,N,690.3,n
+958,7000.0, 36 months,AZ,28000.0,Partially Verified,15977.0,219.33,OWN,credit_card,N,219.33,n
+1103,16500.0, 60 months,FL,102000.0,Verified,2318.0,427.93,RENT,debt_consolidation,Y,427.93,n
+766,8000.0, 36 months,CA,61000.0,Partially Verified,1790.0,7698.63,RENT,other,N,263.58,n
+1960,7000.0, 36 months,NM,49074.9,Not Verified,5951.0,1112.25,RENT,credit_card,N,220.14,n
+1878,1000.0, 36 months,TX,51000.0,Not Verified,10305.0,32.98,MORTGAGE,debt_consolidation,N,32.98,n
+2348,18875.0, 36 months,MD,56000.0,Not Verified,5527.0,809.99,RENT,debt_consolidation,Y,809.99,n
+569,40000.0, 36 months,IN,180000.0,Partially Verified,16931.0,1316.95,MORTGAGE,credit_card,Y,1316.95,n
+2432,8000.0, 36 months,PA,55000.0,Partially Verified,7149.0,173.0,RENT,debt_consolidation,Y,289.18,n
+927,5000.0, 36 months,TN,46000.0,Partially Verified,13767.0,164.62,MORTGAGE,credit_card,N,164.62,n
+2087,25225.0, 60 months,TN,59000.0,Verified,3738.0,795.94,RENT,debt_consolidation,N,795.94,n
+438,12000.0, 60 months,UT,30000.0,Partially Verified,2995.0,50.0,RENT,debt_consolidation,Y,336.5,n
+982,20625.0, 36 months,TN,43000.0,Partially Verified,8364.0,766.4,MORTGAGE,debt_consolidation,N,766.4,n
+1743,13750.0, 36 months,AL,50000.0,Partially Verified,3486.0,497.03,RENT,debt_consolidation,N,497.03,n
+2559,12000.0, 36 months,MI,52000.0,Not Verified,12417.0,395.37,OWN,debt_consolidation,Y,395.37,n
+1892,10000.0, 36 months,VA,108000.0,Partially Verified,6263.0,50.0,RENT,debt_consolidation,Y,329.48,n
+1056,19750.0, 36 months,NY,52000.0,Verified,5527.0,14213.18,RENT,debt_consolidation,N,798.27,n
+1886,35000.0, 36 months,CA,145000.0,Partially Verified,48395.0,20090.16,MORTGAGE,credit_card,N,1137.43,n
+667,10000.0, 36 months,NM,68000.0,Not Verified,7230.0,314.48,OWN,home_improvement,N,314.48,n
+1148,25025.0, 60 months,FL,71000.0,Not Verified,32922.0,741.73,MORTGAGE,debt_consolidation,Y,741.73,n
+443,16000.0, 36 months,TN,98000.0,Not Verified,6429.0,519.97,OWN,debt_consolidation,N,519.97,n
+2443,4000.0, 36 months,GA,133000.0,Not Verified,34837.0,3161.69,MORTGAGE,debt_consolidation,N,131.79,n
+2178,5000.0, 36 months,KY,30408.0,Verified,25985.0,3470.07,MORTGAGE,debt_consolidation,N,183.26,n
+1761,8000.0, 36 months,AL,38000.0,Verified,4392.0,289.18,RENT,credit_card,N,289.18,n
+422,30000.0, 36 months,OR,75000.0,Partially Verified,4400.0,28619.7,RENT,debt_consolidation,N,1084.43,n
+1082,2000.0, 36 months,CT,55000.0,Verified,1776.0,1930.01,RENT,car,N,79.25,n
+1463,25000.0, 36 months,MD,72000.0,Partially Verified,13898.0,916.28,MORTGAGE,home_improvement,Y,916.28,n
+1873,2100.0, 36 months,NE,40000.0,Partially Verified,12962.0,82.38,OWN,other,Y,82.38,n
+2165,11000.0, 36 months,FL,55500.0,Partially Verified,3061.0,435.85,RENT,debt_consolidation,Y,435.85,n
+69,16000.0, 60 months,NV,95000.0,Verified,12296.0,448.67,MORTGAGE,debt_consolidation,Y,448.67,n
+646,3000.0, 36 months,TX,43328.0,Partially Verified,7253.0,98.85,OWN,medical,Y,98.85,n
+621,10000.0, 36 months,MA,30000.0,Not Verified,2647.0,7427.82,RENT,debt_consolidation,N,329.72,n
+1091,9600.0, 36 months,FL,41900.0,Partially Verified,18587.0,7756.15,MORTGAGE,credit_card,N,301.9,n
+303,25000.0, 36 months,WI,63000.0,Partially Verified,3972.0,903.69,RENT,debt_consolidation,Y,903.69,n
+132,6000.0, 36 months,GA,75000.0,Not Verified,20934.0,2342.79,MORTGAGE,debt_consolidation,N,186.61,n
+1647,12000.0, 36 months,NC,41600.0,Not Verified,10683.0,377.37,MORTGAGE,debt_consolidation,N,377.37,n
+1244,10000.0, 60 months,CA,48000.0,Partially Verified,4699.0,50.0,RENT,debt_consolidation,Y,287.63,n
+14,3200.0, 36 months,NY,47500.0,Verified,1655.0,118.91,RENT,debt_consolidation,Y,118.91,n
+1928,25925.0, 60 months,LA,72000.0,Verified,14062.0,838.61,MORTGAGE,credit_card,Y,838.61,n
+909,32000.0, 36 months,NY,95000.0,Verified,67511.0,1156.72,MORTGAGE,debt_consolidation,Y,1156.72,n
+2295,4000.0, 36 months,AR,66453.0,Partially Verified,9925.0,130.0,RENT,debt_consolidation,N,130.0,n
+921,8000.0, 36 months,CO,41000.0,Partially Verified,3595.0,263.78,RENT,debt_consolidation,N,263.78,n
+204,2400.0, 36 months,VA,42000.0,Verified,27959.0,1214.06,MORTGAGE,debt_consolidation,N,75.2,n
+41,8000.0, 36 months,IN,65000.0,Verified,3967.0,285.19,RENT,debt_consolidation,N,285.19,n
+2452,30000.0, 36 months,OH,124000.0,Partially Verified,38681.0,3475.69,MORTGAGE,debt_consolidation,N,1188.68,n
+1964,11200.0, 60 months,NJ,104000.0,Partially Verified,23074.0,25.0,MORTGAGE,credit_card,Y,358.86,n
+1465,7000.0, 36 months,SD,58000.0,Partially Verified,14615.0,210.81,MORTGAGE,debt_consolidation,Y,210.81,n
+1953,18000.0, 36 months,NY,51000.0,Not Verified,11187.0,559.83,MORTGAGE,credit_card,N,559.83,n
+1664,1000.0, 36 months,MT,23000.0,Verified,1382.0,36.15,RENT,other,Y,36.15,n
+1015,16000.0, 36 months,MD,25000.0,Partially Verified,1557.0,527.55,MORTGAGE,debt_consolidation,N,527.55,n
+926,24000.0, 60 months,MN,98600.0,Not Verified,16317.0,783.73,MORTGAGE,credit_card,Y,783.73,n
+4,5000.0, 36 months,IN,45000.0,Not Verified,10074.0,1299.62,MORTGAGE,debt_consolidation,N,155.51,n
+1476,15000.0, 36 months,GA,40000.0,Not Verified,1211.0,14912.56,OWN,credit_card,N,534.72,n
+2522,20000.0, 60 months,WI,56000.0,Verified,5721.0,163.15,OWN,debt_consolidation,N,560.83,n
+558,20000.0, 60 months,NH,48000.0,Verified,6341.0,620.39,RENT,debt_consolidation,N,592.79,n
+567,15000.0, 60 months,RI,75000.0,Partially Verified,33644.0,372.71,MORTGAGE,debt_consolidation,N,372.71,n
+1859,27400.0, 60 months,CA,86000.0,Verified,21158.0,864.57,ANY,home_improvement,Y,864.57,n
+1643,8000.0, 36 months,OK,105000.0,Partially Verified,4820.0,297.27,MORTGAGE,debt_consolidation,N,297.27,n
+76,6000.0, 36 months,NY,40000.0,Verified,4191.0,50.0,RENT,debt_consolidation,Y,216.89,n
+1644,35000.0, 36 months,TX,323500.0,Partially Verified,18417.0,1414.66,MORTGAGE,debt_consolidation,Y,1414.66,n
+831,16000.0, 36 months,NY,48000.0,Not Verified,1039.0,594.54,RENT,major_purchase,N,594.54,n
+963,15800.0, 60 months,CA,41600.0,Verified,3012.0,519.37,RENT,debt_consolidation,Y,519.37,n
+2291,8400.0, 36 months,NY,86000.0,Verified,2524.0,396.99,RENT,debt_consolidation,N,276.96,n
+251,7675.0, 36 months,VA,63000.0,Verified,25732.0,281.3,MORTGAGE,credit_card,Y,281.3,n
+23,20000.0, 36 months,CA,75000.0,Partially Verified,2665.0,659.43,RENT,debt_consolidation,Y,659.43,n
+2160,9000.0, 36 months,CA,80000.0,Partially Verified,2754.0,296.32,OWN,credit_card,Y,296.32,n
+899,15000.0, 36 months,MA,90000.0,Partially Verified,5432.0,10942.81,RENT,debt_consolidation,N,469.98,n
+703,10000.0, 36 months,NY,140000.0,Not Verified,2649.0,50.0,OWN,credit_card,Y,301.15,n
+563,12000.0, 36 months,LA,50000.0,Not Verified,884.0,395.66,MORTGAGE,debt_consolidation,Y,395.66,n
+610,30000.0, 36 months,MA,74136.0,Verified,59853.0,1084.43,MORTGAGE,debt_consolidation,Y,1084.43,n
+2552,10000.0, 36 months,NJ,54500.0,Not Verified,4234.0,379.28,RENT,debt_consolidation,Y,379.28,n
+232,19200.0, 36 months,KY,90000.0,Partially Verified,23923.0,776.04,MORTGAGE,debt_consolidation,Y,776.04,n
+98,12000.0, 36 months,GA,56000.0,Not Verified,19516.0,373.22,MORTGAGE,home_improvement,N,373.22,n
+1917,10000.0, 36 months,TX,56500.0,Verified,7056.0,25.0,MORTGAGE,debt_consolidation,Y,329.48,n
+2148,14100.0, 36 months,NC,44115.0,Verified,6393.0,516.78,OWN,other,N,516.78,n
+1453,15000.0, 36 months,NV,185000.0,Partially Verified,23288.0,11539.13,MORTGAGE,debt_consolidation,N,493.86,n
+478,6725.0, 36 months,LA,29000.0,Verified,2341.0,221.0,RENT,credit_card,Y,221.74,n
+2380,16000.0, 36 months,DE,148000.0,Partially Verified,2039.0,606.84,MORTGAGE,moving,Y,606.84,n
+2029,6750.0, 36 months,MO,35000.0,Partially Verified,5276.0,212.27,RENT,credit_card,N,212.27,n
+2168,5000.0, 36 months,CO,63000.0,Verified,1904.0,164.86,RENT,other,N,164.86,n
+543,5000.0, 36 months,CA,49000.0,Verified,2278.0,50.0,RENT,debt_consolidation,Y,164.62,n
+812,18000.0, 36 months,NC,110000.0,Not Verified,22082.0,877.0,MORTGAGE,debt_consolidation,Y,593.49,n
+914,8000.0, 36 months,NJ,60000.0,Partially Verified,7729.0,246.99,RENT,debt_consolidation,Y,246.99,n
+1239,20000.0, 36 months,MI,35000.0,Verified,12177.0,800.39,MORTGAGE,debt_consolidation,Y,800.39,n
+616,22000.0, 36 months,NC,56660.0,Verified,1493.0,784.26,RENT,debt_consolidation,N,784.26,n
+2175,11500.0, 36 months,WY,100000.0,Not Verified,38245.0,9982.69,MORTGAGE,debt_consolidation,N,373.73,n
+113,12000.0, 60 months,MI,180000.0,Partially Verified,17936.0,50.0,MORTGAGE,debt_consolidation,Y,394.09,n
+2549,16000.0, 36 months,VA,34000.0,Partially Verified,264.0,14195.9,RENT,debt_consolidation,N,503.16,n
+1780,24000.0, 60 months,GA,115000.0,Partially Verified,25689.0,596.34,MORTGAGE,debt_consolidation,N,596.34,n
+248,12000.0, 36 months,CA,68931.0,Not Verified,37777.0,361.38,MORTGAGE,debt_consolidation,N,361.38,n
+581,15225.0, 60 months,MD,46716.72,Verified,2587.0,499.53,RENT,debt_consolidation,N,499.53,n
+1165,15000.0, 36 months,GA,38000.0,Partially Verified,2336.0,9021.16,OWN,other,N,578.62,n
+405,9000.0, 36 months,NY,65000.0,Partially Verified,2340.0,6159.9,RENT,debt_consolidation,N,292.48,n
+670,29725.0, 60 months,NJ,400000.0,Partially Verified,11734.0,25356.91,RENT,credit_card,N,638.76,n
+1225,18450.0, 36 months,AK,41000.0,Not Verified,3847.0,666.92,RENT,credit_card,Y,666.92,n
+1897,25000.0, 36 months,TX,90000.0,Not Verified,34132.0,18859.38,MORTGAGE,debt_consolidation,N,783.3,n
+124,30000.0, 36 months,CA,50000.0,Partially Verified,13222.0,30366.75,MORTGAGE,debt_consolidation,N,943.42,n
+1988,17800.0, 36 months,NJ,48000.0,Not Verified,32209.0,586.47,MORTGAGE,credit_card,N,586.47,n
+1343,9600.0, 36 months,WA,114808.0,Not Verified,3077.0,7480.95,RENT,credit_card,N,301.9,n
+10,25000.0, 60 months,GA,84600.0,Partially Verified,20020.0,548.44,MORTGAGE,debt_consolidation,N,548.44,n
+582,10000.0, 36 months,CA,43000.0,Partially Verified,3945.0,356.48,RENT,debt_consolidation,Y,356.48,n
+385,10000.0, 36 months,PA,51914.0,Verified,3674.0,308.73,OWN,debt_consolidation,Y,308.73,n
+1055,10000.0, 36 months,ID,38000.0,Partially Verified,3070.0,314.48,RENT,debt_consolidation,Y,314.48,n
+2318,30000.0, 60 months,IL,150000.0,Partially Verified,27137.0,794.65,MORTGAGE,credit_card,N,794.65,n
+477,6000.0, 36 months,MO,47000.0,Partially Verified,9321.0,4740.66,MORTGAGE,credit_card,N,197.83,n
+1357,5000.0, 36 months,OK,21562.0,Partially Verified,906.0,804.9,RENT,debt_consolidation,N,198.12,n
+2320,8000.0, 36 months,CA,55000.0,Not Verified,2207.0,251.58,RENT,credit_card,Y,251.58,n
+638,10000.0, 36 months,TX,54000.0,Partially Verified,567.0,59.53,RENT,car,Y,329.48,n
+949,22000.0, 36 months,NY,65000.0,Not Verified,10067.0,724.85,MORTGAGE,credit_card,N,724.85,n
+2429,18000.0, 36 months,MI,60000.0,Partially Verified,4196.0,650.66,RENT,debt_consolidation,Y,650.66,n
+1175,6500.0, 36 months,WI,55000.0,Partially Verified,3863.0,4965.03,RENT,debt_consolidation,N,214.32,n
+2228,20000.0, 60 months,MA,52000.0,Not Verified,12358.0,518.71,MORTGAGE,debt_consolidation,N,518.71,n
+1280,6000.0, 36 months,AZ,36000.0,Not Verified,14237.0,188.0,MORTGAGE,medical,N,188.0,n
+2458,7200.0, 36 months,VA,70000.0,Partially Verified,33202.0,215.0,RENT,debt_consolidation,Y,237.4,n
+1980,12500.0, 36 months,AK,77000.0,Not Verified,20293.0,182.76,MORTGAGE,debt_consolidation,Y,406.23,n
+2321,5000.0, 36 months,CA,100000.0,Partially Verified,48959.0,15.46,MORTGAGE,debt_consolidation,N,164.86,n
+2523,6025.0, 36 months,MA,180000.0,Partially Verified,17192.0,2275.3,RENT,credit_card,N,198.37,n
+2258,21325.0, 36 months,CO,53000.0,Verified,4233.0,792.41,RENT,debt_consolidation,Y,792.41,n
+935,10800.0, 36 months,AZ,110000.0,Partially Verified,10278.0,355.58,RENT,credit_card,N,355.58,n
+674,28000.0, 60 months,OH,75000.0,Partially Verified,35558.0,695.73,MORTGAGE,credit_card,N,695.73,n
+2407,30000.0, 36 months,IN,125000.0,Verified,8942.0,500.0,MORTGAGE,debt_consolidation,Y,1084.43,n
+162,20000.0, 36 months,TX,150000.0,Partially Verified,2907.0,658.48,OWN,small_business,Y,658.48,n
+2005,9150.0, 36 months,TX,65000.0,Not Verified,3655.0,50.0,OWN,credit_card,Y,330.75,n
+728,2850.0, 36 months,MD,25000.0,Partially Verified,1522.0,1807.25,RENT,debt_consolidation,N,93.97,n
+1078,2100.0, 36 months,DC,44000.0,Partially Verified,5108.0,66.04,OWN,credit_card,N,66.04,n
+1604,21000.0, 60 months,VA,88000.0,Verified,23584.0,672.86,MORTGAGE,credit_card,Y,672.86,n
+1906,18000.0, 36 months,CA,57000.0,Not Verified,1903.0,706.1,OWN,debt_consolidation,Y,706.1,n
+1804,25000.0, 60 months,CA,80000.0,Verified,32658.0,20633.71,MORTGAGE,debt_consolidation,N,549.07,n
+1427,15000.0, 36 months,TX,74000.0,Partially Verified,25414.0,7442.65,MORTGAGE,home_improvement,N,451.73,n
+2374,30000.0, 36 months,TX,150000.0,Partially Verified,51841.0,929.61,MORTGAGE,debt_consolidation,Y,929.61,n
+2250,12000.0, 36 months,PA,130000.0,Not Verified,5461.0,3030.57,MORTGAGE,home_improvement,N,371.85,n
+1784,23000.0, 36 months,NY,115000.0,Not Verified,1843.0,7973.25,RENT,debt_consolidation,N,758.34,n
+2403,15000.0, 60 months,NJ,115000.0,Verified,49912.0,13154.07,MORTGAGE,debt_consolidation,N,389.03,n
+789,25000.0, 36 months,CO,130000.0,Partially Verified,21138.0,771.82,MORTGAGE,debt_consolidation,Y,771.82,n
+1694,20800.0, 60 months,NC,115000.0,Verified,4135.0,583.26,MORTGAGE,debt_consolidation,Y,583.26,n
+379,30000.0, 36 months,FL,168000.0,Partially Verified,8358.0,926.18,RENT,credit_card,N,926.18,n
+1284,15000.0, 36 months,MI,63000.0,Partially Verified,10188.0,463.09,MORTGAGE,credit_card,N,463.09,n
+898,11200.0, 60 months,AZ,33000.0,Not Verified,1003.0,245.7,RENT,debt_consolidation,Y,245.7,n
+1496,18000.0, 60 months,MA,100000.0,Not Verified,24970.0,17142.06,MORTGAGE,debt_consolidation,N,395.33,n
+1977,30000.0, 60 months,NM,115000.0,Verified,38620.0,946.61,MORTGAGE,debt_consolidation,Y,946.61,n
+245,20000.0, 60 months,MT,70000.0,Not Verified,25027.0,18712.64,MORTGAGE,debt_consolidation,N,518.71,n
+39,28000.0, 60 months,CA,105000.0,Partially Verified,3480.0,28782.9,MORTGAGE,credit_card,N,765.24,n
+792,30075.0, 36 months,IL,210000.0,Partially Verified,47668.0,26654.61,MORTGAGE,credit_card,N,942.31,n
+1572,10000.0, 36 months,LA,38000.0,Partially Verified,22163.0,361.48,MORTGAGE,debt_consolidation,N,361.48,n
+1098,8200.0, 36 months,WI,38000.0,Partially Verified,1847.0,316.31,MORTGAGE,debt_consolidation,Y,316.31,n
+2112,10000.0, 60 months,GA,100000.0,Partially Verified,33860.0,9946.35,MORTGAGE,debt_consolidation,N,259.36,n
+145,15000.0, 36 months,WA,60000.0,Partially Verified,3305.0,542.22,MORTGAGE,credit_card,N,542.22,n
+815,4750.0, 36 months,NY,15840.0,Verified,2001.0,3872.9,RENT,other,N,186.34,n
+1760,16000.0, 36 months,CA,130000.0,Not Verified,3551.0,10570.82,RENT,credit_card,N,481.84,n
+757,35000.0, 36 months,AZ,137000.0,Verified,16856.0,1265.16,MORTGAGE,credit_card,N,1265.16,n
+1775,14000.0, 36 months,WA,60000.0,Partially Verified,6543.0,499.07,RENT,debt_consolidation,N,499.07,n
+2101,12000.0, 36 months,NJ,110000.0,Partially Verified,4656.0,395.66,MORTGAGE,debt_consolidation,N,395.66,n
+778,25000.0, 36 months,PA,110000.0,Not Verified,8919.0,23.27,MORTGAGE,debt_consolidation,N,823.69,n
+2384,10300.0, 36 months,KS,67500.0,Not Verified,17623.0,100.0,MORTGAGE,debt_consolidation,Y,339.61,n
+37,6500.0, 36 months,FL,75000.0,Partially Verified,6505.0,250.74,OWN,debt_consolidation,N,250.74,n
+414,18000.0, 36 months,MI,25000.0,Not Verified,18231.0,563.98,MORTGAGE,debt_consolidation,N,563.98,n
+252,15500.0, 36 months,NY,92000.0,Not Verified,1855.0,510.69,OWN,debt_consolidation,N,510.69,n
+2447,3000.0, 36 months,NY,50000.0,Partially Verified,1602.0,93.31,OWN,debt_consolidation,Y,93.31,n
+1691,20000.0, 60 months,VA,84000.0,Not Verified,18787.0,429.78,OWN,credit_card,N,429.78,n
+1969,35000.0, 36 months,CA,180000.0,Verified,6734.0,1282.79,RENT,debt_consolidation,Y,1282.79,n
+1652,10000.0, 60 months,FL,80000.0,Partially Verified,10543.0,50.0,RENT,small_business,Y,219.63,n
+1386,4800.0, 36 months,TX,58464.0,Partially Verified,11099.0,148.74,MORTGAGE,medical,N,148.74,n
+2489,11000.0, 36 months,NJ,80000.0,Not Verified,5825.0,4627.76,RENT,debt_consolidation,N,344.65,n
+137,12000.0, 36 months,AZ,86973.0,Verified,43827.0,1687.49,MORTGAGE,debt_consolidation,N,389.98,n
+2245,25000.0, 36 months,NC,50000.0,Verified,5601.0,928.97,MORTGAGE,debt_consolidation,Y,928.97,n
+1325,18000.0, 60 months,CO,65000.0,Not Verified,44644.0,395.33,MORTGAGE,credit_card,N,395.33,n
+489,9625.0, 36 months,FL,30000.0,Verified,2536.0,381.37,RENT,small_business,Y,381.37,n
+1587,5000.0, 36 months,CA,77400.0,Partially Verified,8863.0,2143.59,MORTGAGE,other,N,157.24,n
+1455,4000.0, 36 months,OH,63900.0,Verified,1361.0,130.0,RENT,debt_consolidation,Y,130.0,n
+440,12000.0, 36 months,MD,100000.0,Partially Verified,3559.0,395.66,RENT,credit_card,N,395.66,n
+2368,4800.0, 36 months,FL,27000.0,Verified,2024.0,175.93,RENT,other,Y,175.93,n
+1762,16000.0, 60 months,NY,75000.0,Not Verified,28046.0,351.81,MORTGAGE,debt_consolidation,N,351.81,n
+2314,6400.0, 36 months,CA,70000.0,Not Verified,4457.0,4145.6,RENT,debt_consolidation,N,201.27,n
+2172,9600.0, 36 months,KY,86480.0,Verified,6424.0,243.0,RENT,debt_consolidation,Y,316.53,n
+547,35000.0, 36 months,GA,112500.0,Verified,11464.0,1096.62,MORTGAGE,debt_consolidation,N,1096.62,n
+1833,20000.0, 36 months,AR,82000.0,Verified,4096.0,16959.13,MORTGAGE,debt_consolidation,N,771.49,n
+1704,10000.0, 36 months,LA,50000.0,Not Verified,2535.0,309.87,MORTGAGE,credit_card,N,309.87,n
+1840,12000.0, 36 months,FL,65000.0,Verified,783.0,100.0,RENT,credit_card,Y,389.98,n
+700,6350.0, 36 months,NM,100000.0,Partially Verified,890.0,229.54,MORTGAGE,vacation,Y,229.54,n
+2319,7400.0, 36 months,AZ,42000.0,Partially Verified,1242.0,4704.8,RENT,debt_consolidation,N,267.5,n
+487,1500.0, 36 months,TX,81000.0,Partially Verified,11692.0,206.06,RENT,major_purchase,N,46.31,n
+684,3500.0, 36 months,SC,55000.0,Verified,26234.0,124.77,OWN,home_improvement,N,124.77,n
+710,5500.0, 36 months,TX,112000.0,Partially Verified,15436.0,198.82,MORTGAGE,debt_consolidation,Y,198.82,n
+1052,8500.0, 36 months,MA,51906.98,Verified,5804.0,6048.57,OWN,debt_consolidation,N,280.06,n
+602,4200.0, 36 months,FL,38000.0,Not Verified,2035.0,138.28,RENT,debt_consolidation,N,138.28,n
+2270,23850.0, 36 months,WA,64817.0,Partially Verified,2923.0,920.0,RENT,debt_consolidation,Y,920.0,n
+125,20000.0, 36 months,FL,50000.0,Partially Verified,7068.0,16896.19,MORTGAGE,debt_consolidation,N,659.43,n
+2495,26400.0, 36 months,CA,80000.0,Not Verified,12260.0,500.0,MORTGAGE,debt_consolidation,N,830.21,n
+1709,10000.0, 36 months,MO,55000.0,Verified,2497.0,396.23,MORTGAGE,debt_consolidation,Y,396.23,n
+2184,6000.0, 36 months,PA,26000.0,Verified,1046.0,197.69,RENT,debt_consolidation,Y,197.69,n
+196,10000.0, 36 months,ND,50000.0,Verified,7948.0,6887.6,MORTGAGE,credit_card,N,329.72,n
+1283,6000.0, 36 months,NY,140000.0,Not Verified,634.0,197.55,RENT,debt_consolidation,N,197.55,n
+1655,22200.0, 60 months,NY,74780.0,Verified,8698.0,730.43,OWN,debt_consolidation,Y,730.43,n
+391,25200.0, 36 months,CA,70000.0,Verified,837.0,830.88,OWN,debt_consolidation,Y,830.88,n
+1138,20000.0, 36 months,NV,90000.0,Partially Verified,9618.0,2695.36,RENT,credit_card,N,659.43,n
+220,8000.0, 36 months,CA,58000.0,Partially Verified,1520.0,251.58,RENT,car,N,251.58,n
+1038,20000.0, 36 months,VT,111000.0,Not Verified,26630.0,619.74,MORTGAGE,home_improvement,N,619.74,n
+351,10000.0, 36 months,MD,48000.0,Partially Verified,951.0,314.48,RENT,credit_card,Y,314.48,n
+2428,32000.0, 36 months,CA,200000.0,Partially Verified,6709.0,1002.62,RENT,debt_consolidation,N,1002.62,n
+17,9600.0, 36 months,FL,105000.0,Verified,5082.0,7878.09,MORTGAGE,credit_card,N,316.53,n
+58,16000.0, 36 months,NY,120000.0,Partially Verified,16814.0,627.65,RENT,other,Y,627.65,n
+1949,35000.0, 36 months,NJ,150000.0,Verified,41914.0,1137.43,ANY,debt_consolidation,Y,1137.43,n
+2378,12500.0, 36 months,WA,51500.0,Partially Verified,18171.0,500.25,MORTGAGE,credit_card,Y,500.25,n
+1273,5000.0, 36 months,TX,75000.0,Partially Verified,2433.0,208.69,OWN,medical,Y,208.69,n
+1371,10750.0, 60 months,PA,28000.0,Partially Verified,39915.0,267.11,MORTGAGE,credit_card,N,267.11,n
+425,6000.0, 36 months,TX,58000.0,Verified,3369.0,91.12,OWN,vacation,Y,197.69,n
+764,4000.0, 36 months,WA,90000.0,Partially Verified,62405.0,3400.05,MORTGAGE,debt_consolidation,N,166.95,n
+2426,9000.0, 36 months,TX,73000.0,Verified,2238.0,133.23,RENT,debt_consolidation,Y,296.53,n
+411,10000.0, 36 months,NY,65000.0,Not Verified,4195.0,308.73,OWN,debt_consolidation,N,308.73,n
+191,3000.0, 36 months,NY,32000.0,Partially Verified,3286.0,98.92,RENT,debt_consolidation,N,98.92,n
+2554,25200.0, 60 months,VA,132000.0,Verified,53497.0,50.0,MORTGAGE,debt_consolidation,Y,513.87,n
+2497,25000.0, 60 months,FL,108000.0,Verified,21184.0,537.23,MORTGAGE,debt_consolidation,N,537.23,n
+2065,8000.0, 36 months,CA,53440.68,Partially Verified,1628.0,6157.72,RENT,debt_consolidation,N,263.58,n
+361,9600.0, 36 months,DC,60541.0,Partially Verified,4818.0,9224.44,RENT,major_purchase,N,297.48,n
+1829,40000.0, 36 months,CA,84000.0,Verified,14822.0,25044.24,MORTGAGE,credit_card,N,1244.07,n
+1471,20000.0, 36 months,NC,62400.0,Verified,20324.0,262.99,MORTGAGE,credit_card,Y,617.46,n
+1521,6000.0, 36 months,VT,32000.0,Partially Verified,3371.0,4051.06,RENT,credit_card,N,188.69,n
+2130,17000.0, 36 months,FL,77000.0,Not Verified,13167.0,172.0,MORTGAGE,debt_consolidation,Y,524.84,n
+149,10000.0, 60 months,NJ,58000.0,Not Verified,4147.0,259.36,RENT,debt_consolidation,N,259.36,n
+107,21000.0, 60 months,MI,125000.0,Partially Verified,10427.0,662.63,MORTGAGE,home_improvement,Y,662.63,n
